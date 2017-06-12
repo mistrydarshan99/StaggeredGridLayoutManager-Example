@@ -12,7 +12,7 @@ import android.widget.TextView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import com.facebook.drawee.backends.pipeline.Fresco;
-import com.recyclerview.EndlessRecyclerViewScrollListener;
+import com.recyclerview.view.EndlessRecyclerViewScrollListener;
 import com.recyclerview.R;
 import java.io.File;
 import java.util.ArrayList;

@@ -13,7 +13,7 @@
       android:orientation="vertical"
       >
 
-    <com.recyclerview.DynamicHeightImageView
+    <com.recyclerview.view.DynamicHeightImageView
         android:id="@+id/ivImageView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

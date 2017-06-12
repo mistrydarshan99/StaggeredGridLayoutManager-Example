@@ -9,6 +9,7 @@ import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.view.View;
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import com.recyclerview.adapter.ItemAdapter;
 import java.util.ArrayList;
 import java.util.List;
 

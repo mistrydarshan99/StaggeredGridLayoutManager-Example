@@ -1,4 +1,4 @@
-package com.recyclerview;
+package com.recyclerview.adapter;
 
 import android.app.Activity;
 import android.support.v7.widget.RecyclerView;
@@ -9,7 +9,10 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import com.recyclerview.MainActivity;
+import com.recyclerview.R;
 import com.recyclerview.fresco.FrescoActivity;
+import com.recyclerview.view.DynamicHeightImageView;
 import com.squareup.picasso.Picasso;
 import java.util.List;
 import q.rorbin.fastimagesize.FastImageSize;

@@ -1,4 +1,4 @@
-package com.recyclerview;
+package com.recyclerview.bean;
 
 /**
  * Created by yuvaraj on 4/20/16.
