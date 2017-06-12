@@ -1,1 +1,1 @@
-include ':app', ':staggerlayout', ':sglm_1', ':section_sglm', ':fresco_sample'
+include ':app'
